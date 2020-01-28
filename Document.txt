@@ -1,0 +1,103 @@
+https://www.youtube.com/watch?v=DGeiIO5ukx4
+
+android project-> build-generate sign bundle apk-select apk
+-next-create new-folder icon select- choose folder where i want to 
+locate the apk-ok-pass-confirm pass- put key name in alias-pass
+-confirm pass-details information-click ok-next-selaect realise
+-folder icon select for choose path-click two chwckbox v1 & v2
+-finish-click locate-apk copy-paste it destination folder
+
+need- logo,discription,screenshots(8),release apk, banner
+
+google play console-search in chrome
+$25 one time -master card/credit card/visa card
+
+create application- Title set-create
+
+short description- one line(80 letter)
+
+full description-4000 line
+
+browse file- upload 8 screenshots
+
+banner size 1024w X 500h
+
+add feature graphic- up the banner
+
+application type- application
+
+category-business
+
+website link-
+
+email-
+
+privacy policy- click not submitting
+
+add high res icon- 512 X 512
+after do all these click save--this is all about store listing
+
+
+now go to App releases--
+
+production-manage-create release-continue-acccept-browse files-upload apk
+
+whats new in this release?-> add description
+
+click save
+
+
+go to content rating: continue- email address-confirm email address
+ category select- violance-no
+sexuality-no
+language-no
+
+others-no
+
+save questionare
+calculate rating-apply rating
+
+go to pricing and distribution: click available
+
+contains ads-yes
+
+star mark check box click-save draft
+
+go to app content- start- all checkbox click-next-yes-next-submit
+
+go to app release- edit release- review-startrollout to production
+confirm
+
+go to all application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
